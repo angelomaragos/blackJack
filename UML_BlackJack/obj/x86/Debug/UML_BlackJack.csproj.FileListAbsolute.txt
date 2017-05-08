@@ -1,0 +1,7 @@
+c:\users\angelo maragos\documents\visual studio 2010\Projects\UML_BlackJack\UML_BlackJack\bin\Debug\UML_BlackJack.exe
+c:\users\angelo maragos\documents\visual studio 2010\Projects\UML_BlackJack\UML_BlackJack\bin\Debug\UML_BlackJack.pdb
+c:\users\angelo maragos\documents\visual studio 2010\Projects\UML_BlackJack\UML_BlackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\angelo maragos\documents\visual studio 2010\Projects\UML_BlackJack\UML_BlackJack\obj\x86\Debug\UML_BlackJack.exe
+c:\users\angelo maragos\documents\visual studio 2010\Projects\UML_BlackJack\UML_BlackJack\obj\x86\Debug\UML_BlackJack.pdb
+C:\Users\Angelo Maragos\Desktop\UML_BlackJack\UML_BlackJack\obj\x86\Debug\UML_BlackJack.exe
+C:\Users\Angelo Maragos\Desktop\UML_BlackJack\UML_BlackJack\obj\x86\Debug\UML_BlackJack.pdb
